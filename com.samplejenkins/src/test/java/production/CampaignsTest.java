@@ -13,4 +13,14 @@ public class CampaignsTest {
 	{
 		System.out.println("Contact added");
 	}
+	@Test 
+	public void addContactAnd()
+	{
+		System.out.println("Contact added");
+	}
+	@Test 
+	public void addContactAndDelete()
+	{
+		System.out.println("Contact added");
+	}
 }
